@@ -29,7 +29,7 @@ BABY token is available on BNB Chain and Polygon network.
 
 
 ## How game section on Babylonia.app works?
-
+<hr/>
 
 
 ## Connecting with MetaMask wallet
@@ -70,10 +70,10 @@ There two methods to change and add extra networks, the manual way and using our
 
 ---
 
-**Network Name:** BNB Chain \
-**New RPC URL:** https://bsc-dataseed.binance.org \
-**ChainID:** 56 \
-**Symbol:** BNB \
+**Network Name:** BNB Chain <br/>
+**New RPC URL:** https://bsc-dataseed.binance.org  <br/>
+**ChainID:** 56 <br/>
+**Symbol:** BNB  <br/>
 **Block Explorer URL:** https://bscscan.com
 
 ---
