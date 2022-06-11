@@ -11,7 +11,7 @@ Here you find everything you need to know on how to buy & sell [_<mark style="ba
 
 ---
 ### DASHBOARD
-![Screenshot of Profile section of POOL](https://github.com/babyloniaapp/docs/blob/d288735bdaf20ffaa9bb3e8399e1ba7d050b447c/.gitbook/assets/Screenshot_pool.babylonia.app_profiler_02.png)
+![Screenshot of Profile section of POOL](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/screenshot/Screenshot_pool.babylonia.app_profiler_03.png)
 The dashboard is the main profiler. It shows the tokens and coin on the wallet address, at the moment it detects top six popular tokens of each blockchain, on the next phase of developments more services will be added such as:
 
  - Liquidity token detection
@@ -28,10 +28,26 @@ The dashboard is the main profiler. It shows the tokens and coin on the wallet a
 ---
 
 ### CHAIN SELECTOR
-![Screenshot of Profile section of Chain Selector](https://github.com/babyloniaapp/docs/blob/59a9efbe6a4cd2d82f317fc3f5ead4677272f567/.gitbook/assets/Screenshot_pool.babylonia.app_02.png)
+![Screenshot of Profile section of Chain Selector](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/screenshot/Screenshot_pool.babylonia.app_ChainSelector-11.png)
 
 The chain selector is a tool to add ERC20 compatible networks to the MetaMask. The idea has been existed on the net for some time, we figured it is not very well managed, and lacks the well-designed UI, so we created this tool from scratch. The chain selector is a part of a program that we intended to add handy tools to our **POOL** ecosystem. So many more to come!
 
 ---
 
 ### Bridge
+
+![Screenshot of Babylonia Bridge](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/screenshot/Screenshot-Bridge-01_600px.png)
+
+
+The bridge is a combination of 2 smart contracts: one deployed on each chain that allows for cross-chain transfers of value. The **Babylonia's bridge** will enable users to transfer their **Baby Tokens** easily between the BSC (BNB Chain) and Polygon, Fantom or other available networks. 
+
+In Babylonia, we love automation and respect the comfort of running a trusted algorithm, but we do not fully trust the code, and it tends to fail the crypto platforms often. Consequently we rather to make big decisions to transfer and release ourselves than reply on the code itself.
+
+The conditions of using the bridge are:
+
+ 1. There is a charge of 2% + 100 $BABY for each transaction
+ 2. The daily quota of bridge is about $10000 daily.
+ 3. The transfers more than $2000 must be approved manually by our admin.
+
+
+Note: the above terms and quota may change over the time.
