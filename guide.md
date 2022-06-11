@@ -78,10 +78,10 @@ There two methods to change and add extra networks, the manual way and using our
 
 ---
 
-**Network Name:** Polygon Mainnet \
-**New RPC URL:** [https://polygon-rpc.com](https://polygon-rpc.com/) \
-**ChainID:** 137 \
-**Symbol:** MATIC \
+**Network Name:** Polygon Mainnet <br/>
+**New RPC URL:** [https://polygon-rpc.com](https://polygon-rpc.com/) <br/>
+**ChainID:** 137 <br/>
+**Symbol:** MATIC <br/>
 **Block Explorer URL:** [https://polygonscan.com](https://polygonscan.com/)
 
 ---
@@ -93,7 +93,7 @@ There two methods to change and add extra networks, the manual way and using our
 2. Now, save the changes.
 
 
-####
+
 
 ![MetaMask with BNB Chain](https://raw.githubusercontent.com/babyloniaapp/docs/1bc52d7391d225c0bc46b91fced408ca696fb5cc/assets/screenshot/Screenshot-MetaMask-04.png)
 
